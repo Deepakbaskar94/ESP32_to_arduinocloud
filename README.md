@@ -3,7 +3,7 @@ sending data from esp32 to ardunio IOT cloud
 
 video steps to send data : https://www.youtube.com/watch?v=LShIXe1AVfs
 Documentation from arduino: https://docs.arduino.cc/cloud/iot-cloud/tutorials/esp-32-cloud
- Account used - deepak baskar@outlook.com
+Account used - deepakbaskar@outlook.com
  
  
  For Existing code 
